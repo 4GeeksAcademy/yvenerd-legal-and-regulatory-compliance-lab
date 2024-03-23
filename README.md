@@ -35,8 +35,8 @@ Linux is a kernel, and based on it, different operating systems have been develo
 | Virus |  |  |
 | DDoS (Distributed Denial of Service) |  |  |
 
-6) Imagine you are an employee of a small company named "EcoTech," dedicated to selling eco-friendly products. The management has decided to establish a LAN (Local Area Network) to improve communication and file exchange among employees in the office. With the knowledge you have acquired so far, what steps or considerations would you take into account to set up a small LAN in the EcoTech office? Describe at least three actions that you think would be important.
+6) Imagine you are an employee of a big company named "4Geeks," dedicated to selling eco-friendly products. The management has decided to establish a LAN (Local Area Network) to improve communication and file exchange among employees in the office. With the knowledge you have acquired so far, what steps or considerations would you take into account to set up a small LAN in the EcoTech office? Describe at least three actions that you think would be important.
 
 7) Based on the cybersecurity regulations studied this week, develop your personal opinion on why you should stay updated on the subject and its importance in your professional career.
 
-8) Imagine you work for a small company handling confidential customer information, such as credit card details and personal data. Why do you think it would be important for your company to use cryptography techniques to protect this information? Describe at least two reasons why cryptography could be valuable in this situation.
+8) Imagine you work for a big company handling confidential customer information, such as credit card details and personal data. Why do you think it would be important for your company to use cryptography techniques to protect this information? Describe at least four reasons why cryptography could be valuable in this situation.
